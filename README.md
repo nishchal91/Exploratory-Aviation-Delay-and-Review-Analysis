@@ -22,10 +22,10 @@ Three Datasets:
 
 ### Apache Spark
 
-**Apache Spark (Scala)** - Data Preprocessing for Machine Learning and                                          Delay analysis
-**Pyspark** - Data preprocessing for Text Analysis
-**SparkMLlib** - Machine Learning, Text Analysis
-**SparkSQL** - Analysis of results
+**Apache Spark (Scala)** - Data Preprocessing for Machine Learning and Delay analysis    
+**Pyspark** - Data preprocessing for Text Analysis    
+**SparkMLlib** - Machine Learning, Text Analysis    
+**SparkSQL** - Analysis of results    
 
 ### R Programming and Tableau - Visualizations
 
